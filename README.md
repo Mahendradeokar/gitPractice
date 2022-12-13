@@ -1,3 +1,3 @@
 # gitPractice
-practice git and github
+practice git
 making some changes
